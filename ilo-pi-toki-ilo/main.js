@@ -1,6 +1,7 @@
 function main(){
 try{
 path$ = 'toki-ilo-pona/'
+document.title = "akesi linja"
 function oopen(){
 if (readCookie("mutekili") == 0){
 mutekilipimutenanpawan = "ala"
